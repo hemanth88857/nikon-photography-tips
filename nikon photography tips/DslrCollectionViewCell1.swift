@@ -10,6 +10,9 @@ import UIKit
 
 class DslrCollectionViewCell1: UICollectionViewCell {
     
+    
+    let name  = "he,amnth"
+    let name1  = "heamnth cherry"
     //Cheats
     
     @IBOutlet weak var chartsimages: UIImageView!
