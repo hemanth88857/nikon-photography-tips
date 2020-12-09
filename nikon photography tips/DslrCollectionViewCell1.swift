@@ -13,6 +13,13 @@ class DslrCollectionViewCell1: UICollectionViewCell {
     
     let name  = "he,amnth"
     let name1  = "heamnth cherry"
+    
+    let name3  = "he,amnth"
+    let name4  = "heamnth cherry"
+    
+    
+    let nam5  = "he,amnth"
+    let name6  = "heamnth cherry"
     //Cheats
     
     @IBOutlet weak var chartsimages: UIImageView!
