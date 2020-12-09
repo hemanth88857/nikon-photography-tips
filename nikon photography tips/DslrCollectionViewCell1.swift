@@ -18,5 +18,5 @@ class DslrCollectionViewCell1: UICollectionViewCell {
 
 
 /*
- Note: This invitation was intended for hemanthcherry56@gmail.com. If you were not expecting this invitation, you can ignore this email. If @hemanth88857 is sending you too many emails, you can block them or report abuse.
+ Note: This invitation was intended for hemanthcherry56@gmail.com. If you were not expecting this invitation, youuse.
  */
